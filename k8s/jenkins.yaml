@@ -165,9 +165,9 @@ metadata:
 type: Opaque
 data:
   admin-pass: NmhGNVd1ZnJlZmVyZmU=    # 6hF5Wufreferfe
-  admin-user: 4oCcYWRtaW7igJ0=        # admin
-  github-org: 4oCcdGVycmFmb3Jt4oCd    # terraform
+  admin-user: YWRtaW4=        # admin
+  github-org: dGVycmFmb3Jt    # terraform
   github-repo: 4oCcY2ljZC1kZW1v4oCd   #cicd-demo
-  github-branches: ZGV2ZWxvcA==       #develop
-  github-user: bXNoYWliZWs=           #saliyevcs
-  github-pass: 4oCcZ2hwX3BIVjVtcGdCbzNvZXZwQ3ZmbUxhbE1OeHJtOTJQWDE3Tlp3aeKAnQ== #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
+  github-branches: Y2ljZC1kZW1v       #develop
+  github-user: c2FsaXlldmNz           #saliyevcs
+  github-pass: Z2hwX3BIVjVtcGdCbzNvZXZwQ3ZmbUxhbE1OeHJtOTJQWDE3Tlp3aQ== 
