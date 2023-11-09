@@ -166,7 +166,7 @@ type: Opaque
 data:
   admin-pass: NmhGNVd1ZnJlZmVyZmU=    # 6hF5Wufreferfe
   admin-user: YWRtaW4=        # admin
-  github-org: dGVycmFmb3Jt    # terraform
+  # github-org: dGVycmFmb3Jt    # terraform
   github-repo: 4oCcY2ljZC1kZW1v4oCd   #cicd-demo
   github-branches: Y2ljZC1kZW1v       #develop
   github-user: c2FsaXlldmNz           #saliyevcs
