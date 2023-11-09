@@ -109,11 +109,11 @@ spec:
                 secretKeyRef:
                   name: jenkins-master-secret            
                   key: github-pass
-            - name: GITHUB_ORG
-              valueFrom:
-                secretKeyRef:
-                  name: jenkins-master-secret             
-                  key: github-org
+            # - name: GITHUB_ORG
+            #   valueFrom:
+            #     secretKeyRef:
+            #       name: jenkins-master-secret             
+            #       key: github-org
             - name: GITHUB_REPO
               valueFrom:
                 secretKeyRef:
